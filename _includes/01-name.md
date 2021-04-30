@@ -5,4 +5,4 @@ Donald
 #### Small header
 ##### Teeny tiny header
 ###### Minute header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://lh3.googleusercontent.com/-gSXiIeMsMa0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn2TVvUvdPn7bU676ezS0UVYNfqKA/s128-c/photo.jpg)
